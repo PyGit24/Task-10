@@ -1,0 +1,8 @@
+Procedures to be performed in Visual Studio Code, under python file
+Open New Window
+Click Terminal, New Terminal
+Click Command prompt window
+On Command prompt python -m venv MyEnviront
+MyEnviront\Scripts\activate
+pip install pandas
+pip freeze > requirements.txt
